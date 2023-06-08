@@ -1,0 +1,14 @@
+{
+  "name": "university-admission-auth-service",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  }
+}
