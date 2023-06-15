@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\successes\\.6d4575c6648a9eb382907f41cecd6a7a5b88535a-audit.json",
+    "files": [
+        {
+            "date": 1686683389156,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\successes\\2023-06-14-01-success.log",
+            "hash": "3e1df2c7f0c7bfdb689a028efa33044ca389896f48ae429593d740d24d111b18"
+        }
+    ],
+    "hashType": "sha256"
+}
