@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\.f292f81cc88a7b3480fe960c89007922f8aa0b01-audit.json",
+    "files": [
+        {
+            "date": 1686683493306,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-01-error.log",
+            "hash": "24e414248e5d620657fe56d431017ac887728b478b582647ee7aab07e5d0717c"
+        },
+        {
+            "date": 1686687809447,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-02-error.log",
+            "hash": "42cbf2340da1d527176122916f696bdb9d8e2e07056653c20e81f569392cfe8a"
+        },
+        {
+            "date": 1686705995117,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-07-error.log",
+            "hash": "bba415a02842d3615837656c1dd9a2c77c873af2bbfd5e5060160e2a8ee73f5e"
+        },
+        {
+            "date": 1686715068466,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-09-error.log",
+            "hash": "cb9657de079ef3b25b2124e53f9bfb99cbc80acfd64403e411bf1aac742952c2"
+        },
+        {
+            "date": 1686736283693,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-15-error.log",
+            "hash": "bfde28472a1bd694eab9c095f9e04bdc5f0514399c3ce1b33af99e76baf204f7"
+        },
+        {
+            "date": 1686736834380,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-16-error.log",
+            "hash": "553c51c27d59308bea33a9151d958fb4f3928d1fdcfa22aaf1e388fc1deabb51"
+        },
+        {
+            "date": 1686741347962,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-17-error.log",
+            "hash": "b8755dd4575581a11066cbacaf6fdfa8fa3c59c0026ae754589729a88650d68f"
+        },
+        {
+            "date": 1686760100249,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-22-error.log",
+            "hash": "4f9241e67fde2d8db979899b7f4fdd51d762670f24f304c082d53c5fe7684421"
+        },
+        {
+            "date": 1686762575001,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-14-06-23-error.log",
+            "hash": "69c37b90842a6cba570ad4a2af9923b9bdeae87fd992d67bf7752967472c4d26"
+        },
+        {
+            "date": 1686766765016,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-15-06-00-error.log",
+            "hash": "071e4bc8ed11f48d08fca12a8e0e1b610a462dace694d2dd5ea37aaa9ae3fe1d"
+        },
+        {
+            "date": 1686771618751,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-15-06-01-error.log",
+            "hash": "30443915e057272f02306d96bfe785c421e6ca18e882ae44531941513cbeb18c"
+        },
+        {
+            "date": 1686774129251,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-15-06-02-error.log",
+            "hash": "26a6c4525b104b308a4cf8acf14d049b9e103cefc49a6de08e7508097473e64d"
+        },
+        {
+            "date": 1686783369802,
+            "name": "C:\\Users\\Acer\\Desktop\\UNIVERSITY-ADMISSION-AUTH-SERVICE\\logs\\winston\\errors\\2023-15-06-04-error.log",
+            "hash": "ec911ada36eff93ec10e90831d4112c6758e70ff505fcd89662677f6807959aa"
+        }
+    ],
+    "hashType": "sha256"
+}
